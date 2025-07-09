@@ -4,8 +4,9 @@ Here's a clean, user-friendly GitHub README that highlights access and key featu
 
 # 🎓 AI-Powered Interactive Learning Assistant with Emotion Recognition  
 *Enhancing classroom engagement through multimodal AI and real-time emotion analysis*
-
+1. **Main AI Assistant** 
 [![Open Main Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship/blob/main/Problem_Statement_4_intel_edu_bot.ipynb)
+2. **Face Detection Module** 
 [![Face Detection](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
 
 ## ✨ Overview
