@@ -1,6 +1,3 @@
-Here's a clean, user-friendly GitHub README that highlights access and key features:
-
----
 
 # 🎓 AI-Powered Interactive Learning Assistant with Emotion Recognition  
 *Enhancing classroom engagement through multimodal AI and real-time emotion analysis*
@@ -9,14 +6,14 @@ Here's a clean, user-friendly GitHub README that highlights access and key featu
 2. **Face Detection Module** 
 [![Face Detection](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
 
-## ✨ Overview
+## **Overview**
 This comprehensive AI solution transforms traditional classrooms into interactive learning environments by combining:
 - **Smart Teaching Assistant** - AI-powered educational support
 - **Emotion Recognition** - Real-time student engagement tracking
 
 Designed for teachers to personalize instruction and understand class dynamics instantly.
 
-## 🔍 How to Access
+## **How to Access**
 1. **Main AI Assistant**  
    [Click here to run in Google Colab](https://colab.research.google.com/github/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship/blob/main/Problem_Statement_4_intel_edu_bot.ipynb)  
    *(Requires Google account)*
@@ -24,7 +21,7 @@ Designed for teachers to personalize instruction and understand class dynamics i
 2. **Face Detection Module**  
    [Open face detection system](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
 
-## 🌟 Key Features
+## **Key Features**
 
 ### 🤖 AI Teaching Assistant
 - **Multimodal Interaction**:  
@@ -36,7 +33,7 @@ Designed for teachers to personalize instruction and understand class dynamics i
 - **Visual Search**:  
   Finds educational images using Google Search API
 
-### 😄 Real-Time Emotion Tracking
+### Real-Time Emotion Tracking
 - **5 Emotion Detection**:  
   Identifies happy, neutral, sad, surprised, or angry expressions
 - **Engagement Metrics**:  
@@ -46,7 +43,7 @@ Designed for teachers to personalize instruction and understand class dynamics i
 - **Optimized Performance**:  
   Processes webcam feed at 25-30 FPS using OpenVINO
 
-## ⚡ Quick Setup
+## Quick Setup
 1. Open the main notebook in Google Colab
 2. Select **TPU runtime** (Runtime → Change runtime type)
 3. Allow webcam access when prompted
@@ -58,4 +55,4 @@ Designed for teachers to personalize instruction and understand class dynamics i
 
 **GitHub Repository**:  
 [https://github.com/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship](https://github.com/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship)  
-**Developed by**: Phanindra Reddy K @ Intel Internship Program
+
