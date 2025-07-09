@@ -1,88 +1,60 @@
-AI-Powered Interactive Learning Assistant with Emotion Recognition
-🔗 Access the Project
-👉 Click below to run the project in Google Colab:
+Here's a clean, user-friendly GitHub README that highlights access and key features:
 
-📘 Main AI Assistant Notebook (https://colab.research.google.com/github/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship/blob/main/Problem_Statement_4_intel_edu_bot.ipynb)
+---
 
-📗 Face detection(https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
+# 🎓 AI-Powered Interactive Learning Assistant with Emotion Recognition  
+*Enhancing classroom engagement through multimodal AI and real-time emotion analysis*
 
-🧾 Overview
-This comprehensive AI system enhances classroom engagement through multimodal interaction and real-time emotion recognition. It integrates:
+[![Open Main Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship/blob/main/Problem_Statement_4_intel_edu_bot.ipynb)
+[![Face Detection](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
 
-Interactive Learning Assistant – AI-powered educational support with text, voice, image, and document capabilities
+## ✨ Overview
+This comprehensive AI solution transforms traditional classrooms into interactive learning environments by combining:
+- **Smart Teaching Assistant** - AI-powered educational support
+- **Emotion Recognition** - Real-time student engagement tracking
 
-Emotion Recognition System – Real-time student engagement tracking using computer vision
+Designed for teachers to personalize instruction and understand class dynamics instantly.
 
-🔑 Key Features
-🧠 Interactive Learning Assistant
-Multimodal Interaction
+## 🔍 How to Access
+1. **Main AI Assistant**  
+   [Click here to run in Google Colab](https://colab.research.google.com/github/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship/blob/main/Problem_Statement_4_intel_edu_bot.ipynb)  
+   *(Requires Google account)*
 
-Text-based chat using Mistral-7B
+2. **Face Detection Module**  
+   [Open face detection system](https://colab.research.google.com/drive/1YX1nbhvvcgal4jYkjRnPZG2IrhMjov_j)
 
-Voice input via Whisper
+## 🌟 Key Features
 
-Image understanding with InternVL
+### 🤖 AI Teaching Assistant
+- **Multimodal Interaction**:  
+  Chat via text, voice, or images
+- **Document Intelligence**:  
+  Automatically generates lesson plans from PDFs/DOCs
+- **Student Analytics**:  
+  Analyzes performance data to identify learning gaps
+- **Visual Search**:  
+  Finds educational images using Google Search API
 
-Student Analytics
+### 😄 Real-Time Emotion Tracking
+- **5 Emotion Detection**:  
+  Identifies happy, neutral, sad, surprised, or angry expressions
+- **Engagement Metrics**:  
+  Classifies students as engaged/disengaged
+- **Live Dashboard**:  
+  Visualizes class emotions during lessons
+- **Optimized Performance**:  
+  Processes webcam feed at 25-30 FPS using OpenVINO
 
-Analyze performance from CSV/Excel files
+## ⚡ Quick Setup
+1. Open the main notebook in Google Colab
+2. Select **TPU runtime** (Runtime → Change runtime type)
+3. Allow webcam access when prompted
+4. Enter your Google API key for image search features
 
-Generate insights and recommendations
+> **Tip**: Restart the runtime if webcam feed freezes
 
-Automated Lesson Planning
+---
 
-PDF/DOCX document parsing
-
-AI-generated lesson outlines
-
-Visual Search
-
-Context-based image retrieval
-
-Uses Google Custom Search API
-
-🎯 Emotion Recognition System
-Real-Time Emotion Detection
-
-Detects 5 emotional states: neutral, happy, sad, surprise, anger
-
-Classifies engagement as engaged or disengaged
-
-Computer Vision Pipeline
-
-Face detection using ADAS model
-
-Facial landmarks with 35-point detection
-
-Accelerated using OpenVINO
-
-Live Analytics Dashboard
-
-Visual breakdown of emotional and attention states
-
-Real-time FPS tracking and monitoring
-
-⚙️ Technical Specifications
-Component	Technology Stack
-AI Models	Mistral-7B, InternVL, Whisper
-Computer Vision	OpenVINO, ADAS face detection
-Backend	OpenVINO, Gradio, NumPy
-Frontend	Gradio UI with custom CSS
-APIs	Google Custom Search JSON API
-
-🚀 Setup Instructions
-Prerequisites
-A Google Colab account
-
-A valid Google API Key (for image search)
-
-Webcam access (for real-time emotion tracking)
-
-Runtime Setup in Colab
-Open the notebook using one of the links above
-
-Go to Runtime → Change runtime type → Select TPU (v2-8)
-
-Allow webcam access when prompted
-
-If the webcam feed glitches, restart the session and re-run the cells
+**GitHub Repository**:  
+[https://github.com/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship](https://github.com/KPhanindraReddy/PB4_ai_classroom_assistant_Intel_Internship)  
+**Developed by**: Phanindra Reddy K @ Intel Internship Program
